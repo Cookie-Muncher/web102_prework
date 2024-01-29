@@ -20,9 +20,10 @@ The following **optional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-![Video Walkthrough](https://shorturl.at/ryZ67)
 
 Here's a walkthrough of implemented features:
+![Video Walkthrough](assets/codepath_prework102.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
