@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Video Walkthrough](assets/codepath_prework102.gif)
+![Video Walkthrough](./assets/codepath_prework102.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
